@@ -1,0 +1,60 @@
+{
+    "manifest": [
+        {
+            "key": "GoLani_CQR_FDE/foregrip_all_hera_arms_cqr_grip.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "GoLani_3-12X50_BLK/scope_34mm_s&b_pm_ii_3_12x50.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+                "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+                "cubemaps",
+                "packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+                "shaders"
+            ]
+        },
+        {
+            "key": "MrGang_34mmScope/scope_34mm_s&b_pm_ii_3_12x50.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+                "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+                "cubemaps",
+                "packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+                "shaders"
+            ]
+        },
+        {
+            "key": "MrGang_34mmScope/scope_34mm_s&b_pm_ii_5_25x56.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+                "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+                "cubemaps",
+                "packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+                "shaders"
+            ]
+        },
+        {
+            "key": "GoLani_BossXe_FDE/scope_all_wilcox_boss_xe_hp.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/textures/holemanager/eotech_spec_mask.bundle",
+                "assets/content/textures/holemanager/glow_particle_bright.bundle",
+                "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+                "assets/systems/effects/collimator.bundle",
+                "assets/systems/effects/laserbeam/laser.bundle",
+                "assets/systems/effects/multiflare/multiflare.bundle",
+                "assets/systems/effects/nightvision.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        }
+    ]
+}
