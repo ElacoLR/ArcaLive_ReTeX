@@ -7,6 +7,7 @@ Retexture by ArcaLive, code by Rising_Star.
 - Schmidt & Bender PM II 1-8x24 30mm riflescope (Black ver.)
 - Schmidt & Bender PM II 3-12x50 34mm riflescope (Black ver.)
 - Schmidt & Bender PM II 3-12x50 34mm riflescope (Black and white ver.)
+- Schmidt & Bender PM II 5-25x56 34mm riflescope (Black ver.)
 - Wilcox BOSS Xe reflex sight (FDE ver.)
 - Hera Arms CQR tactical foregrip (FDE ver.)
 
