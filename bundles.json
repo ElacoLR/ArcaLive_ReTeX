@@ -55,6 +55,17 @@
                 "cubemaps",
                 "shaders"
             ]
+        },
+        {
+            "key": "GoLani_1-8X24_BLK/scope_30mm_s&b_pm_ii_1_8x24.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/textures/holemanager/round_spec_mask.bundle",
+                "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+                "cubemaps",
+                "packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+                "shaders"
+            ]
         }
     ]
 }
